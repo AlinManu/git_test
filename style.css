@@ -1,0 +1,29 @@
+body {
+color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 19px;
+}
+
+p {
+    color: #2f0101;
+}
+h1 {
+    color: #550303;
+}
+
+h2{
+    color: rgb(0, 70, 111);
+}
+
+h3 {
+    color: grey
+}
+
+div {
+    width: 550px;
+    height: 280px;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: normal;
+    color: #550303;
+}
