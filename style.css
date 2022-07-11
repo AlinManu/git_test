@@ -2,6 +2,10 @@ body {
 color: black;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 19px;
+background-image: url('Images/v748-toon-111.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
 }
 
 p {
@@ -26,4 +30,7 @@ div {
     font-family: fantasy;
     font-size: normal;
     color: #550303;
+}
+#odin {
+    color: rgb(229, 33, 33);
 }
